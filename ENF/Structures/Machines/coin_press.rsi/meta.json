@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "license": null,
+  "copyright": "ClownHONKEY",
+  "size": {
+    "x": 32,
+    "y": 32
+  },
+  "states": [
+    {
+      "name": "static"
+    },
+    {
+      "name": "coin_press-ACTIVE",
+      "delays": [
+        [
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "icon"
+    },
+    {
+      "name": "panel-OPEN"
+    },
+    {
+      "name": "coin_gold-PRESSING",
+      "delays": [
+        [
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "gold_coin"
+    },
+    {
+      "name": "coin_plasma-PRESSING",
+      "delays": [
+        [
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "plasma_coin"
+    },
+    {
+      "name": "coin_copper-PRESSING",
+      "delays": [
+        [
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "copper_coin"
+    },
+    {
+      "name": "coin_silver-PRESSING",
+      "delays": [
+        [
+          1,
+          2,
+          1,
+          1,
+          2,
+          2,
+          1,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "name": "silver_coin"
+    }
+  ]
+}
